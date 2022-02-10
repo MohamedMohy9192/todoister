@@ -10,6 +10,7 @@
       <map>
         <entry key="..\:/Android/AndroidStudioProjects/Tutorials Projects/todoister/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Android/AndroidStudioProjects/Tutorials Projects/todoister/app/src/main/res/layout/bottom_sheet.xml" value="0.72" />
+        <entry key="..\:/Android/AndroidStudioProjects/Tutorials Projects/todoister/app/src/main/res/layout/todo_row.xml" value="0.1" />
       </map>
     </option>
   </component>
@@ -18,5 +19,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
   </component>
 </project>
